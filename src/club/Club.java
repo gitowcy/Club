@@ -6,7 +6,7 @@ package club;
 
 /**
  *
- * @author Palin, Muszla, Tempy
+ * @author Palin, Muszla, Ostry 456
  */
 public class Club {
 
