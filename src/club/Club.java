@@ -6,8 +6,8 @@ package club;
 
 /**
  *
+
  * @author Palin, Muszla, Ostry 456
- */
 public class Club {
 
   /**
@@ -15,5 +15,10 @@ public class Club {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+<<<<<<< HEAD
+=======
+    MainFrame mf = new MainFrame();
+    mf.setVisible(true);
+>>>>>>> 8d17db4cd943c802296fed2b51ebd77890bc197a
   }
 }
